@@ -2,6 +2,7 @@
 
 AI Visionary is a **Streamlit-based web app** that generates AI-powered images using **Hugging Face models**. Users can enter a text prompt and generate images dynamically. The app supports customization for different Hugging Face models.
 
+Use this app here: https://ailabinterface.streamlit.app
 ---
 
 ## **🚀 Features**
@@ -63,6 +64,3 @@ To use different Hugging Face models:
 Want to improve AI Visionary? Feel free to fork, modify, and submit a pull request!
 
 ---
-
-## **📜 License**
-This project is **__ Licensed**. Feel free to use and modify it.
